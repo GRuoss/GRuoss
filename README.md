@@ -22,13 +22,13 @@ pressing buttons until the red goes away.
 
 **things i've been asked**
 
-> "did you test it?"
+> "did you test it?"<br>
 > i looked at it. it looked tested.
 
-> "why is the build red?"
+> "why is the build red?"<br>
 > it's a nice color.
 
-> "where is the bug?"
+> "where is the bug?"<br>
 > i nailed a board over it. problem solved.
 
 **how to reach me**

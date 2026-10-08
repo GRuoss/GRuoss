@@ -1,4 +1,4 @@
-<img src="starfish.svg" alt="a sleepy pink starfish" width="120" align="right" />
+<img src="starfish.svg" alt="a pink starfish with a plank nailed to its head" width="120" align="right" />
 
 ### hi, i'm gregory
 

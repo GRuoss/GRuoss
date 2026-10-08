@@ -1,22 +1,38 @@
 <img src="patrick.jpg" alt="patrick with a plank nailed to his head" width="140" align="right" />
 
-### hi, i'm gregory
+### hi. i'm gregory. i think.
 
-developer at sydoc. mostly python and flask, a lot of sql server, some powershell,
-and more github actions than i ever wanted to know about.
+i write code at sydoc. i don't know what it does but the computer seems happy.
 
-this is not the krusty krab.
+someone told me i'm a "developer". i looked it up and it's a big word for
+pressing buttons until the red goes away.
 
-**what i work on**
+**things i do**
 
-- an internal web portal: dashboards, reporting, admin stuff, a document viewer
-- making it usable on a phone
-- database migrations
-- keeping ci green (it was the other runner)
+- i made a website. it has buttons. some of them work
+- i put the website on a phone. now it's a tiny website
+- i talk to databases. they don't talk back. we're friends
+- i fixed ci today. it was the other runner. i was right there the whole time
 
-**currently**
+**things i'm learning**
 
-- learning lazygit and trying to touch the mouse less
-- wondering if mayonnaise is an instrument
+- lazygit. it's like regular git but lazy. like me
+- the keyboard. apparently it has more than one key
+- whether mayonnaise is an instrument (still no answer)
 
-<sub>the inner machinations of my mind are an enigma.</sub>
+**things i've been asked**
+
+> "did you test it?"
+> i looked at it. it looked tested.
+
+> "why is the build red?"
+> it's a nice color.
+
+> "where is the bug?"
+> i nailed a board over it. problem solved.
+
+**how to reach me**
+
+i'm under my rock. knock first. not too loud. i'm thinking.
+
+<sub>the inner machinations of my mind are an enigma. mostly empty, but an enigma.</sub>

@@ -1,6 +1,6 @@
 <img src="patrick.jpg" alt="patrick with a plank nailed to his head" width="140" align="right" />
 
-### hi. i'm gregory. i think.
+### no, this is not the krusty krab
 
 i write code at sydoc. i don't know what it does but the computer seems happy.
 
